@@ -1,4 +1,4 @@
-##Plot scripts for Exploratory Data Analysis course project 1
+#Plots and plot scripts for Exploratory Data Analysis course project 1
 
 Run each plot script - plot1.R, plot2.R, plot3.R, and plot4.R to create the 4 required plots for this course in your working directory. 
 
